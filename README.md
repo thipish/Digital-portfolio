@@ -88,7 +88,7 @@
 
     <section id="education">
         <h2>Education</h2>
-        <p><strong>Anna University</strong> - Electrical & Electronics Engineering</p>
+        <p><strong>Madras University</strong> - Computer science </p>
     </section>
 
     <section id="skills">
